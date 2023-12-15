@@ -34,4 +34,4 @@ First u can setup key & isBackEnd in file .env
 - Happy Hacking!
 
 
-[BruteForce_Simulation](https://youtube.com/shorts/DIiQmepXUBM)
+![bruteforce](https://github.com/qorihidayat/bruteforce_simulation/assets/69575185/d5758356-0169-496e-84c1-39bd2f0d078b)(https://youtube.com/shorts/DIiQmepXUBM)
