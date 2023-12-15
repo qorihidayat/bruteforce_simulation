@@ -1,7 +1,6 @@
 # bruteforce_simulation
 
 Brute Force is a hacking method that uses repeated attempts to access passwords, login credentials, and encryption keys. The attacker tries various combinations systematically until he finds the correct one, This program is useful for simulating how brute force works
-This program is useful for simulating how brute force works
 
 ## Tech
 
