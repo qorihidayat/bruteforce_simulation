@@ -21,7 +21,7 @@ Install the dependencies and devDependencies and start the server.
 cd bruteforce_simulation
 npm i selenium-webdriver
 npm i dotenv
-node .
+node bruteforce_simulation.js
 ```
 
 ## Usage
