@@ -32,3 +32,5 @@ First u can setup key & isBackEnd in file .env
 - isBackEnd = do u want to run this brutforce with backend or forntend?? if you want with backend write : true
 - run bruteforce_simulation.bat
 - Happy Hacking!
+
+[![Watch the video](https://img.youtube.com/vi/DIiQmepXUBM/default.jpg)](https://youtube.com/shorts/DIiQmepXUBM)
