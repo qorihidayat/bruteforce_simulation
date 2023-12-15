@@ -33,4 +33,5 @@ First u can setup key & isBackEnd in file .env
 - run bruteforce_simulation.bat
 - Happy Hacking!
 
-[![Watch the video](https://img.youtube.com/vi/DIiQmepXUBM/default.jpg)](https://youtube.com/shorts/DIiQmepXUBM)
+
+[BruteForce_Simulation](https://youtube.com/shorts/DIiQmepXUBM)
