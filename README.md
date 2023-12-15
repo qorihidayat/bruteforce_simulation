@@ -5,7 +5,7 @@ This program is useful for simulating how brute force works
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+bruteforce_simulation uses a number of open source projects to work properly:
 
 - [Tailwindcss] - great UI boilerplate for modern web apps
 - [node.js] - evented I/O for the backend
